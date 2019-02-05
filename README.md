@@ -6,7 +6,7 @@
 This is all about styling a webpage with formats and styles.
 
 ## Team Slide
-![image]()
+![image]("Screenshot(26).png")
 
 ## Recommended Tools
 
