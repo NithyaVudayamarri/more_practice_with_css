@@ -1,14 +1,18 @@
-# more-practice-with-css
+# More_Practice_with_css
 
 # CSS:Cascading Style Sheets
 
 ## About
-This is all about styling a awebpage with formats and styles.
+This is all about styling a webpage with formats and styles.
+
+## Team Slide
+![image](https://github.com/NithyaVudayamarri/more_practice_with_css/blob/master/Screenshot%20(37).png?raw=true)
 
 ## Recommended Tools
 
 - GitHub(https://github.com/github)
 - Visual Code : Code Editor
+
 
 ## Recommended Resources
 
