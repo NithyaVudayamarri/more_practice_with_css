@@ -1,19 +1,22 @@
 h1{
-padding-left: 50px;
-padding-top: 30px;
-color: aquamarine;
-/* height: 200px;
-width: 50%; */
+    color: blue;
+}
+h3{
+    font-size: 70%;
+}
+hr{
+    color: brown;
+    border-style: dotted;
+}
+h2{
 
-
 }
-#greenid{
-    color : green;
+#temp{
+    border-style: solid;
 }
-.redid{
-    color :red ;
+#temp1{
+    color: blue;
 }
-body {
-     /* background-image: url("bg.jpg"); */
-    /* background-color: blue; */
+.group{
+    font-size: 50pxl;
 }
